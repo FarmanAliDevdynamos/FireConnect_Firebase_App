@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "780205827065",
+    "project_id": "login-app-f9205",
+    "storage_bucket": "login-app-f9205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780205827065:android:f7dd4158fa8fdb04269328",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwiODJEwK1m3JGU2mHAhN_NQT7qyCk510"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780205827065:android:fb8992e055f8ff6e269328",
+        "android_client_info": {
+          "package_name": "com.login_app.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwiODJEwK1m3JGU2mHAhN_NQT7qyCk510"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
